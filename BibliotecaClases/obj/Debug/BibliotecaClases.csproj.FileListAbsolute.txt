@@ -1,0 +1,6 @@
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\BibliotecaClases\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\BibliotecaClases\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\BibliotecaClases\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.AssemblyReference.cache
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\BibliotecaClases\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CoreCompileInputs.cache
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\BibliotecaClases\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+C:\Users\harol\source\repos\EjerciciosPrimerComputoC#\BibliotecaClases\BibliotecaClases\obj\Debug\BibliotecaClases.pdb
